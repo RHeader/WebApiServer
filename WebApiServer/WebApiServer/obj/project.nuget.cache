@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0/DKsGo2zm17ZxMWKo9h/ZF09ulaxe1Tlujlz2IndEFO/nixJFzt+7rWC0xcMhH6NGU/ildP8bTJANCBAwTuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\worge\\Desktop\\WebApiServer__Client\\WebApiServer__Client\\WebApiServer + Client\\WebApiServer\\WebApiServer\\WebApiServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\worge\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

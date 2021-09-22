@@ -1,0 +1,83 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="true">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.25*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Choise chat nickname" HorizontalAlignment="Center"/>
+            <RadioButton Command="{Binding ChangeNameCommand}" CommandParameter="SystemName" GroupName="NameChoise" Content="Use System Name" IsChecked="True"/>
+            <RadioButton Command="{Binding ChangeNameCommand}" CommandParameter="TextBoxName" x:Name="textName" GroupName="NameChoise" Content="Use another Name"/>
+            <TextBox IsEnabled="{Binding ElementName=textName, Path=IsChecked}" Text="{Binding Path=UserName,  UpdateSourceTrigger=PropertyChanged}" ></TextBox>
+        </StackPanel>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.1*"></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="0.1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <CheckBox x:Name="VisiblingSort" Content="Enable Filtration" VerticalAlignment="Center" Margin="0 0 10 0"/>
+                <StackPanel IsEnabled="{Binding ElementName=VisiblingSort, Path=IsChecked}" Orientation="Horizontal">
+                <TextBlock VerticalAlignment="Center">From</TextBlock>
+                    <DatePicker  SelectedDate="{Binding dateFilter.FromDate, Mode=OneWayToSource}"/>
+                    <TextBlock VerticalAlignment="Center">To</TextBlock>
+                    <DatePicker  SelectedDate="{Binding dateFilter.ToDate,Mode=OneWayToSource}"/>
+                    <Button MaxWidth="70"  Content="Filtration" Command="{Binding SortingMessageByDate}"/>
+                    <Button MaxWidth="70"  Content="Reset" Margin="15 0 0 0 " Command="{Binding ResetSort}" Width="60"/>
+                    <StackPanel.Resources>
+                        <Style TargetType="DatePicker" >
+                        <Setter Property="Margin" Value="0,0,15,0"/>
+                            <Setter Property="MaxWidth" Value="100"/>
+                        </Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Margin" Value="0,0,15,0"/>
+                    </Style>
+                </StackPanel.Resources>
+            </StackPanel>
+            </StackPanel>
+            <ListBox Grid.Row="1"
+                     x:Name="BoxChat" 
+                     ItemsSource="{Binding AllMessages , UpdateSourceTrigger=PropertyChanged}"
+                     ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                     VerticalAlignment="Bottom">
+                <ListBox.ItemTemplate>
+                    <DataTemplate >
+                        <StackPanel Margin="5">
+                            <TextBlock Text="{Binding Path=userName}" />
+                            <TextBlock FontSize="18" Text="{Binding Path=message}" />
+                            <TextBlock Text="{Binding Path=messageSendTime}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Border Grid.Row="2" BorderBrush="Aqua" BorderThickness="1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition Width="0.25*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Margin="6" x:Name="messageField">
+                        <TextBox.Text>
+                            <Binding Path="SendedMessage" UpdateSourceTrigger="PropertyChanged">
+                            </Binding>
+                        </TextBox.Text>
+                    </TextBox>
+                    <Button Command="{Binding SendCommand}"
+                            Grid.Column="1" 
+                            Content="Send" 
+                            IsDefault="True"></Button>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

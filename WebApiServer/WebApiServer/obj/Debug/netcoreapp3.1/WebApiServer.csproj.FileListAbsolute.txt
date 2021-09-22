@@ -1,0 +1,66 @@
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.json
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.exe
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.deps.json
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.json
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.dev.json
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.dll
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.pdb
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\LiteDB.dll
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.AssemblyReference.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfoInputs.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfo.cs
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CoreCompileInputs.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.MvcApplicationPartsAssemblyInfo.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.Manifest.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.xml
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiServer.styles.css
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.RazorTargetAssemblyInfo.cache
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CopyComplete
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.dll
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.pdb
+W:\Project C#\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.genruntimeconfig.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csprojAssemblyReference.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfoInputs.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfo.cs
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.dll
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.pdb
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.exe
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.deps.json
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.json
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.dev.json
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.dll
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.pdb
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.Manifest.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.xml
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiServer.styles.css
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.RazorTargetAssemblyInfo.cache
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CopyComplete
+C:\Users\ANTON\Downloads\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.genruntimeconfig.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.exe
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.deps.json
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.json
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.runtimeconfig.dev.json
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.dll
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\WebApiServer.pdb
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\bin\Debug\netcoreapp3.1\LiteDB.dll
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.AssemblyReference.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfoInputs.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.AssemblyInfo.cs
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CoreCompileInputs.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.Manifest.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\staticwebassets\WebApiServer.StaticWebAssets.xml
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiServer.styles.css
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.RazorTargetAssemblyInfo.cache
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.csproj.CopyComplete
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.dll
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.pdb
+C:\Users\worge\Desktop\WebApiServer__Client\WebApiServer__Client\WebApiServer + Client\WebApiServer\WebApiServer\obj\Debug\netcoreapp3.1\WebApiServer.genruntimeconfig.cache
